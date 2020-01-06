@@ -5,7 +5,7 @@
 ### My Capstone Project
 
 [Fake News Classification](/FakeNewsClassification/)
-<img src="images/oooo.plus_139.png"/>
+<img src="images/oooo.plus_139.png?width=80?height=80/">
 
 
 
