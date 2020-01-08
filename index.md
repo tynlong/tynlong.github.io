@@ -9,8 +9,9 @@ As a subject matter expert of the company software, I consulted with over 85 com
 #### JUN 2016 - AUG 2016 
 Authored an initial viability study of a possible solar plant site, defining business success metrics and doing the groundwork. Presentation to department head resulted in request for further research by full-time staff.
 Audited sensor data from a building under company management, successfully identifying faults that resulted in loss in energy efficiency, and made and presented recommendations to technical staff.
-DSO National Laboratories — Summer Research Intern
-FEB 2014 - JULY 2014,  
+
+### DSO National Laboratories — Summer Research Intern
+#### FEB 2014 - JULY 2014,  
 Developed an encryption tool in Python, learning the language in the process.
 
 ## EDUCATION
